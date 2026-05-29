@@ -22,20 +22,6 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
 
 ---
 
-# 💫 About Me
-
-<p align="center">
-
-🔭 Currently building <b>VigilXi</b><br>
-🌱 Learning <b>System Design, AI Workflows & Computer Vision</b><br>
-👯 Open to collaborating on <b>AI + Full-Stack Projects</b><br>
-💬 Ask me about <b>React, Next.js, FastAPI & AI Systems</b><br>
-📫 Reach me at <b>stutikatiyar114@gmail.com</b>
-
-</p>
-
----
-
 # 💻 Tech Stack
 
 <p align="center">
