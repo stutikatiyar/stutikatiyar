@@ -37,11 +37,3 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=stutikatiyar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=8A2BE2&text_color=FFFFFF" />
 </p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutikatiyar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=stutikatiyar&bg_color=0d1117&color=FF8C00&line=8A2BE2&point=FF8C00&area=true&hide_border=true&radius=8" />
-</p>
