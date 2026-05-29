@@ -9,10 +9,10 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
 <!-- TYPING SVG -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%2B+Computer+Vision+Explorer;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%2B+Computer+Vision+Explorer;Building+Intelligent+Systems" />
 </p>
 
-<!-- PROFILE VIEWS -->
+<!-- BADGES -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stutikatiyar&label=PROFILE+VIEWS&color=FF8C00&style=for-the-badge" />
@@ -40,18 +40,6 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216649436-05c7b1e2-7f8e-4d7d-8f52-8d4f3d7f6f55.gif" width="100%">
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/stutikatiyar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-</p>
-
----
-
 # 💻 Tech Stack
 
 <p align="center">
@@ -59,8 +47,6 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
 </p>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/216649436-05c7b1e2-7f8e-4d7d-8f52-8d4f3d7f6f55.gif" width="100%">
 
 # 📊 GitHub Analytics
 
@@ -70,26 +56,8 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=stutikatiyar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=8A2BE2&text_color=FFFFFF" />
 </p>
 
-<br>
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutikatiyar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFFFFF" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stutikatiyar&bg_color=0d1117&color=FF8C00&line=8A2BE2&point=FF8C00&area=true&hide_border=true" />
-</p>
-
----
-
-# 🚀 Interests
-
-<p align="center">
-
-Artificial Intelligence • Computer Vision • Full-Stack Development • UI Systems • Developer Tools • Psychology • Storytelling
-
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutikatiyar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFFFFF" />
 </p>
 
 ---
@@ -105,5 +73,5 @@ Artificial Intelligence • Computer Vision • Full-Stack Development • UI Sy
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF8C00&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF8C00&height=120&section=footer"/>
 </p>
