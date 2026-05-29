@@ -60,18 +60,3 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutikatiyar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFFFFF" />
 </p>
 
----
-
-# 🧠 Philosophy
-
-<p align="center">
-  <i>"To define is to limit."</i>
-</p>
-
----
-
-<!-- FOOTER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF8C00&height=120&section=footer"/>
-</p>
