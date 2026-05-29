@@ -1,6 +1,3 @@
-<!-- MATRIX HEADER -->
-
-
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Stuti Katiyar</h1>
@@ -12,7 +9,7 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
 <!-- TYPING SVG -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%2B+Computer+Vision+Explorer;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%2B+Computer+Vision+Explorer;Building+Intelligent+Systems" />
 </p>
 
 <!-- PROFILE VIEWS -->
@@ -22,6 +19,8 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
 
   <img src="https://img.shields.io/github/followers/stutikatiyar?style=for-the-badge&color=8A2BE2&labelColor=0D1117" />
 </p>
+
+---
 
 # 💫 About Me
 
@@ -41,6 +40,8 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/216649436-05c7b1e2-7f8e-4d7d-8f52-8d4f3d7f6f55.gif" width="100%">
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -57,21 +58,9 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,fastapi,html,css,tailwind,git,github,vscode" />
 </p>
 
-<br>
-
-<p align="center">
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-</p>
-
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/216649436-05c7b1e2-7f8e-4d7d-8f52-8d4f3d7f6f55.gif" width="100%">
 
 # 📊 GitHub Analytics
 
@@ -105,8 +94,7 @@ Artificial Intelligence • Computer Vision • Full-Stack Development • UI Sy
 
 ---
 
-# 🧠 Dev Quote
-
+# 🧠 Philosophy
 
 <p align="center">
   <i>"To define is to limit."</i>
@@ -114,9 +102,8 @@ Artificial Intelligence • Computer Vision • Full-Stack Development • UI Sy
 
 ---
 
-
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00F7FF&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF8C00&height=140&section=footer"/>
 </p>
