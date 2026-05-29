@@ -1,8 +1,5 @@
 <!-- MATRIX HEADER -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p5M2I1eW1sNXh3aTB0MzR5YmR6aHBvYzM0dDVzb2Z4dG84OWVwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
-</p>
 
 <!-- HEADER -->
 
@@ -104,9 +101,6 @@ Artificial Intelligence • Computer Vision • Full-Stack Development • UI Sy
 
 # 🧠 Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <i>"To define is to limit."</i>
@@ -114,11 +108,6 @@ Artificial Intelligence • Computer Vision • Full-Stack Development • UI Sy
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
