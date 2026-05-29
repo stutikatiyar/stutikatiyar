@@ -76,15 +76,21 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=stutikatiyar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=stutikatiyar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=8A2BE2&fire=00F7FF&currStreakLabel=00F7FF" />
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutikatiyar&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=stutikatiyar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=stutikatiyar&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutikatiyar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stutikatiyar&bg_color=0d1117&color=00f7ff&line=8a2be2&point=00f7ff&area=true&hide_border=true" />
 </p>
 
 ---
