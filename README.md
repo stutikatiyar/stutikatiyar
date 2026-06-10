@@ -14,12 +14,6 @@ AI/ML developer building intelligent computer vision systems and full-stack appl
 
 <!-- BADGES -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stutikatiyar&label=PROFILE+VIEWS&color=FF8C00&style=for-the-badge" />
-
-  <img src="https://img.shields.io/github/followers/stutikatiyar?style=for-the-badge&color=8A2BE2&labelColor=0D1117" />
-</p>
-
 ---
 
 # 💻 Tech Stack
