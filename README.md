@@ -42,8 +42,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=stutikatiyar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=8A2BE2&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=stutikatiyar&theme=midnight-purple&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF8C00&fire=8A2BE2&currStreakLabel=FF8C00" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=stutikatiyar&theme=midnight-purple&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF8C00&fire=8A2BE2&currStreakLabel=FF8C00" />
 </p>
 
 <p align="center">
