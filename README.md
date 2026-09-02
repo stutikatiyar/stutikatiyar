@@ -100,17 +100,6 @@
 
 <br />
 
-<!-- CONTRIBUTION SNAKE -->
-<h3 align="center">🐍 The Anaconda Grid</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stutikatiyar/stutikatiyar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
-> 💡 *Note: The snake animation needs the GitHub Actions workflow from [Platane/snk](https://github.com/Platane/snk) running daily to slither.*
-
-<br />
-
 <!-- CONNECT WITH ME -->
 <h3 align="center">📲 Catch My Vibe</h3>
 
