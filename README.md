@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,50:8A2BE2,100:FF8C00&height=180&text=Namaste,%20I'm%20Stuti%20Katiyar%20✨🪔&fontSize=42&fontColor=FFFFFF&animation=fadeIn&stroke=000000&radius=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,50:8A2BE2,100:FF8C00&height=180&text=Hello,%20I'm%20Stuti%20Katiyar%20✨&fontSize=42&fontColor=FFFFFF&animation=fadeIn&stroke=000000&radius=20" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
