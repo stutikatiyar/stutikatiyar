@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,50:8A2BE2,100:FF8C00&height=180&text=Hello,%20I'm%20Stuti%20Katiyar%20✨&fontSize=42&fontColor=FFFFFF&animation=fadeIn&stroke=000000&radius=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:8A2BE2,100:FF8C00&height=220&section=header&text=Namaste,%20I'm%20Stuti%20Katiyar%20✨🪔&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -19,18 +19,26 @@
 <br />
 
 <!-- ABOUT ME -->
-### 🌸 About Me
+<table align="center" width="100%">
+  <tr>
+    <td width="100%">
+      <h3>🌸 About Me</h3>
+      <ul>
+        <li>🪔 <b>Current Focus:</b> Building <b>DermaLens</b> — a domain-aware AI middleware for dermatological image enhancement and quality assessment.</li>
+        <li>🌱 <b>Deep Dive:</b> Computer vision, image restoration models (Restormer, Real-ESRGAN), and applied deep learning.</li>
+        <li>⚡ <b>Core Philosophy:</b> Bridging the gap between <i>"works in the lab"</i> and <i>"works in real-world conditions"</i> for AI systems.</li>
+        <li>🧠 <b>Problem Solving:</b> Handling noisy sensors, bad lighting, and blurry inputs before they reach diagnostic classifiers.</li>
+        <li>☕ <b>Let's Connect On:</b> PyTorch, OpenCV, FastAPI, React, or discussions around objective image quality metrics (PSNR/SSIM).</li>
+        <li>✨ <b>End-to-End:</b> Crafting full-stack AI applications from underlying deep learning models down to frontend interfaces.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-* 🪔 **Current Focus:** Building **DermaLens** — a domain-aware AI middleware for dermatological image enhancement and quality assessment.
-* 🌱 **Deep Dive:** Computer vision, image restoration models (Restormer, Real-ESRGAN), and applied deep learning.
-* ⚡ **Core Philosophy:** Bridging the gap between "works in the lab" and "works in real-world conditions" for AI systems.
-* 🧠 **Problem Solving:** Handling noisy sensors, bad lighting, and blurry inputs before they reach diagnostic classifiers.
-* ☕ **Let's Connect On:** PyTorch, OpenCV, FastAPI, React, or discussions around objective image quality metrics (PSNR/SSIM).
-* ✨ **End-to-End:** Crafting full-stack AI applications from underlying deep learning models down to frontend interfaces.
+<br />
 
----
-
-### 💅 Tech Stack & Tools
+<!-- TECH STACK -->
+<h3 align="center">💻 Tech Stack & Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,java,js,ts,react,nextjs,fastapi,tailwind,opencv,git,github,vscode,docker" alt="Tech Stack" />
@@ -44,15 +52,18 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
----
+<br />
 
-### 🚀 Featured Project
+<!-- FEATURED PROJECT -->
+<h3 align="center">🚀 Featured Project</h3>
 
 <table align="center" width="100%">
   <tr>
     <td width="100%">
-      <h3 align="center">🧠🩺 DermaLens</h3>
-      <p align="center"><i>Domain-Aware AI Middleware for Dermatological Image Enhancement & Quality Assessment</i></p>
+      <div align="center">
+        <h3>🧠🩺 DermaLens</h3>
+        <p><i>Domain-Aware AI Middleware for Dermatological Image Enhancement & Quality Assessment</i></p>
+      </div>
       <hr />
       <p>DermaLens adaptively corrects blur, noise, and lighting defects in smartphone-captured skin images prior to downstream medical classification.</p>
       <ul>
@@ -69,9 +80,10 @@
   </tr>
 </table>
 
----
+<br />
 
-### 📈 Analytics & Activity
+<!-- ANALYTICS -->
+<h3 align="center">📈 Analytics & Activity</h3>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stutikatiyar&show_icons=true&theme=synthwave&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&icon_color=8A2BE2&border_color=FF1493&hide_border=false" />
@@ -82,17 +94,19 @@
   <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=stutikatiyar&theme=react-dark&bg_color=0D1117&hide_border=false&border_color=FF1493&line=FF1493&color=8A2BE2&point=FFFFFF&area=true" />
 </p>
 
----
+<br />
 
-### 🐍 Contribution Activity
+<!-- CONTRIBUTION SNAKE -->
+<h3 align="center">🐍 Contribution Activity</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/stutikatiyar/stutikatiyar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
----
+<br />
 
-### 🌐 Let's Connect
+<!-- CONNECT -->
+<h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -104,4 +118,5 @@
   <sub><i>"Enhance carefully. Validate before trusting." — The DermaLens Motto ✨</i></sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:8A2BE2,100:FF8C00&height=100&section=footer" width="100%"/>
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:8A2BE2,100:FF8C00&height=120&section=footer" width="100%"/>
