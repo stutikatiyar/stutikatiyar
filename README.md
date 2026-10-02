@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=600&height=45&lines=AI+%2B+Computer+Vision+Engineer;Full-Stack+Developer;Building+Intelligent+Systems;Turning+Ideas+Into+Working+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=600&height=45&lines=AI+%2B+Speech+Recognition+Engineer;Computer+Vision+%2B+Deep+Learning;Full-Stack+AI+Systems+Architect;Building+CapFlow+%2B+DermaLens" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,12 +24,11 @@
     <td width="100%">
       <h3>🌸 About Me</h3>
       <ul>
-        <li>🪔 <b>Current Focus:</b> Building <b>DermaLens</b> — a domain-aware AI middleware for dermatological image enhancement and quality assessment.</li>
-        <li>🌱 <b>Deep Dive:</b> Computer vision, image restoration models (Restormer, Real-ESRGAN), and applied deep learning.</li>
-        <li>⚡ <b>Core Philosophy:</b> Bridging the gap between <i>"works in the lab"</i> and <i>"works in real-world conditions"</i> for AI systems.</li>
-        <li>🧠 <b>Problem Solving:</b> Handling noisy sensors, bad lighting, and blurry inputs before they reach diagnostic classifiers.</li>
-        <li>☕ <b>Let's Connect On:</b> PyTorch, OpenCV, FastAPI, React, or discussions around objective image quality metrics (PSNR/SSIM).</li>
-        <li>✨ <b>End-to-End:</b> Crafting full-stack AI applications from underlying deep learning models down to frontend interfaces.</li>
+        <li>🚀 <b>Current Focus:</b> Building <b>CapFlow</b> — an intelligent code-switching (Hinglish) captioning pipeline combining <code>faster-whisper</code> ASR, dynamic transliteration, and Groq/Llama 3 LLM post-processing.</li>
+        <li>🪔 <b>Active Research:</b> Developing <b>DermaLens</b> — a domain-aware AI middleware for dermatological image enhancement and quality assessment (Restormer, Real-ESRGAN).</li>
+        <li>🌱 <b>Deep Dive:</b> Automatic Speech Recognition (ASR), multi-lingual code-switching architectures, speech separation, and computer vision restoration models.</li>
+        <li>⚡ <b>Core Philosophy:</b> Bridging the gap between <i>"works in the lab"</i> and <i>"works in production"</i> across complex speech and vision systems.</li>
+        <li>☕ <b>Let's Connect On:</b> PyTorch, Whisper, Groq/LLM pipelines, OpenCV, FastAPI, React, or handling noisy audio/visual signals.</li>
       </ul>
     </td>
   </tr>
@@ -41,35 +40,61 @@
 <h3 align="center">💻 Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,java,js,ts,react,nextjs,fastapi,tailwind,opencv,git,github,vscode,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,js,ts,react,nextjs,fastapi,tailwind,opencv,docker,git,github,vscode" alt="Tech Stack" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_LLM-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 <br />
 
-<!-- FEATURED PROJECT -->
-<h3 align="center">🚀 Featured Project</h3>
+<!-- FEATURED PROJECTS -->
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="100%">
+      <div align="center">
+        <h3>🎙️ CapFlow</h3>
+        <p><i>Intelligent Code-Switching (Hinglish) Captioning Pipeline</i></p>
+      </div>
+      <hr />
+      <p>CapFlow processes mixed Hindi + English spoken video content, generating precise, production-ready Romanized Hinglish captions without phonetic degradation or Devanagari script lock.</p>
+      <ul>
+        <li><b>ASR Engine:</b> CTranslate2-optimized <code>faster-whisper-large-v3</code> with VAD pre-filtering and word-level timestamps.</li>
+        <li><b>LLM Correction:</b> Multi-model failover post-processing layer powered by Groq (Llama 3.3 70B) for zero-shot loanword normalization.</li>
+        <li><b>Multi-Format Export:</b> Automated output handlers for <code>.srt</code>, <code>.vtt</code>, and structured <code>.json</code> subtitle payloads.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active%20Development-FF1493?style=flat-square" />
+        <img src="https://img.shields.io/badge/Domain-Speech%20%26%20NLP-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Whisper%20%7C%20Groq%20%7C%20FastAPI-FF8C00?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <table align="center" width="100%">
   <tr>
     <td width="100%">
       <div align="center">
         <h3>🧠🩺 DermaLens</h3>
-        <p><i>Domain-Aware AI Middleware for Dermatological Image Enhancement & Quality Assessment</i></p>
+        <p><i>Domain-Aware AI Middleware for Dermatological Image Enhancement</i></p>
       </div>
       <hr />
       <p>DermaLens adaptively corrects blur, noise, and lighting defects in smartphone-captured skin images prior to downstream medical classification.</p>
       <ul>
         <li><b>Core Tech:</b> PyTorch, OpenCV, Restormer, Real-ESRGAN</li>
-        <li><b>Validation Layer:</b> Objective PSNR and SSIM metric evaluation built directly into processing steps</li>
-        <li><b>Architecture:</b> FastAPI microservice paired with a clean React frontend UI</li>
+        <li><b>Validation Layer:</b> Objective PSNR and SSIM metric evaluation built directly into processing steps.</li>
+        <li><b>Architecture:</b> FastAPI microservice paired with a clean React frontend UI.</li>
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Active%20Research-FF1493?style=flat-square" />
@@ -115,7 +140,7 @@
 </p>
 
 <p align="center">
-  <sub><i>"Enhance carefully. Validate before trusting." — The DermaLens Motto ✨</i></sub>
+  <sub><i>"Build robust pipelines. Validate before trusting." — Stuti Katiyar ✨</i></sub>
 </p>
 
 <!-- FOOTER WAVE -->
