@@ -1,20 +1,20 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF1493,50:8A2BE2,100:FF8C00&height=230&section=header&text=Stuti%20Katiyar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Speech%20%7C%20Computer%20Vision%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="Stuti Katiyar banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF1493,45:C2185B,100:FFB300&height=240&section=header&text=Stuti%20Katiyar&fontSize=62&fontColor=FFF8E1&animation=fadeIn&fontAlignY=38&desc=%F0%9F%AA%94%20AI%20%C2%B7%20Speech%20%C2%B7%20Vision%20%C2%B7%20Full-Stack%20%F0%9F%AA%94&descAlignY=60&descSize=18" width="100%" alt="Stuti Katiyar banner" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=650&height=45&lines=AI+%2B+Speech+Recognition+Engineer;Computer+Vision+%2B+Deep+Learning;Full-Stack+AI+Systems+Builder;Currently+building+CapFlow+%2B+DermaLens" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=FF1493&center=true&vCenter=true&width=700&height=45&lines=Namaste+%F0%9F%99%8F+I'm+Stuti;I+teach+machines+to+understand+Hinglish+%F0%9F%8E%99%EF%B8%8F;Computer+Vision+%2B+Deep+Learning+%F0%9F%91%81%EF%B8%8F;Full-Stack+AI+systems%2C+shipped+properly+%E2%9C%A8;Powered+by+chai+and+PyTorch+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stutikatiyar&color=FF1493&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/stutikatiyar?label=FOLLOWERS&style=for-the-badge&color=8A2BE2" alt="Followers" />
-  <img src="https://img.shields.io/badge/Graduating-2027-FF8C00?style=for-the-badge" alt="Graduating 2027" />
+  <img src="https://img.shields.io/github/followers/stutikatiyar?label=FOLLOWERS&style=for-the-badge&color=C2185B" alt="Followers" />
+  <img src="https://img.shields.io/badge/Graduating-2027-FFB300?style=for-the-badge&labelColor=4A0E2E" alt="Graduating 2027" />
 </p>
 
 <p align="center">
@@ -25,20 +25,20 @@
 
 ---
 
-## 🌸 About Me
+## 🪔 Kaun Hai Ye? *(About Me)*
 
-> **"Build robust pipelines. Validate before trusting."**
+> **"Build robust pipelines. Validate before trusting."** 💅
 
-I'm an AI & ML undergraduate at **CMR Institute of Technology, Bengaluru**, building systems that bridge the gap between *"works in the lab"* and *"works in production"*, across noisy speech and messy visual data.
+AI & ML undergrad at **CMR Institute of Technology, Bengaluru**. I build systems that survive the jump from *"works on my laptop"* to *"works in production"*, especially when the audio is noisy, the language is half Hindi and half English, and the images are blurry.
 
 | | |
 |---|---|
-| 🚀 **Building** | **CapFlow**: a Hinglish code-switching captioning pipeline (`faster-whisper` + dynamic transliteration + Groq/Llama 3 post-processing) |
+| 🎙️ **Building** | **CapFlow**: Hinglish code-switching captions (`faster-whisper` + dynamic transliteration + Groq/Llama 3 post-processing) |
 | 🔬 **Researching** | **DermaLens**: domain-aware AI middleware for dermatological image enhancement and quality assessment (Restormer, Real-ESRGAN) |
 | 🌱 **Deep diving** | ASR, multilingual code-switching, speech separation, image restoration |
-| 🤝 **Happy to chat about** | PyTorch, Whisper, Groq/LLM pipelines, OpenCV, FastAPI, React, noisy audio/visual signals |
+| ☕ **Chai pe charcha** | PyTorch, Whisper, Groq/LLM pipelines, OpenCV, FastAPI, React, noisy audio/visual signals |
 
-### 🏆 Highlights
+### 👑 Highlights
 
 - 📜 Patent filed: Indian Patent App. No. `202641024127`
 - 🥇 Finalist, **MSME IDEA Hackathon 4.0**
@@ -46,7 +46,7 @@ I'm an AI & ML undergraduate at **CMR Institute of Technology, Bengaluru**, buil
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack *(Meri Toolkit)*
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,js,ts,react,nextjs,fastapi,nodejs,express,mongodb,tailwind,opencv,docker,git,github,vscode" alt="Tech Stack" />
@@ -63,7 +63,7 @@ I'm an AI & ML undergraduate at **CMR Institute of Technology, Bengaluru**, buil
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects *(Mera Kaam)*
 
 <table>
   <tr>
@@ -79,8 +79,8 @@ Turns mixed Hindi + English speech into production-ready **Romanized Hinglish** 
 - **Export:** `.srt`, `.vtt` and structured `.json`
 
 ![Status](https://img.shields.io/badge/Status-Active%20Development-FF1493?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-Speech%20%26%20NLP-8A2BE2?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-Whisper%20%7C%20Groq%20%7C%20FastAPI-FF8C00?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-Speech%20%26%20NLP-C2185B?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Whisper%20%7C%20Groq%20%7C%20FastAPI-FFB300?style=flat-square)
 
 </td>
     <td width="50%" valign="top">
@@ -95,48 +95,44 @@ Adaptively corrects blur, noise and lighting defects in smartphone-captured skin
 - **Architecture:** FastAPI microservice with a clean React frontend
 
 ![Status](https://img.shields.io/badge/Status-Active%20Research-FF1493?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-Medical%20CV-8A2BE2?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-PyTorch%20%7C%20FastAPI%20%7C%20React-FF8C00?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-Medical%20CV-C2185B?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-PyTorch%20%7C%20FastAPI%20%7C%20React-FFB300?style=flat-square)
 
 </td>
   </tr>
 </table>
 
-### 🔧 How they work
+### 🔧 Under the hood
 
 ```mermaid
 flowchart LR
-    subgraph CapFlow
-        A[Video / Audio] --> B[VAD filter]
-        B --> C[faster-whisper large-v3]
-        C --> D[Transliteration]
-        D --> E[Groq Llama 3.3 70B correction]
-        E --> F[SRT / VTT / JSON]
-    end
+    A[Video / Audio] --> B[VAD filter]
+    B --> C[faster-whisper large-v3]
+    C --> D[Transliteration]
+    D --> E[Groq Llama 3.3 70B correction]
+    E --> F[SRT / VTT / JSON]
 ```
 
 ```mermaid
 flowchart LR
-    subgraph DermaLens
-        G[Smartphone skin image] --> H[Quality assessment]
-        H --> I[Restormer / Real-ESRGAN]
-        I --> J[PSNR + SSIM validation]
-        J --> K[Downstream classifier]
-    end
+    G[Smartphone skin image] --> H[Quality assessment]
+    H --> I[Restormer / Real-ESRGAN]
+    I --> J[PSNR + SSIM validation]
+    J --> K[Downstream classifier]
 ```
 
 ---
 
-## 📈 Analytics & Activity
+## 📈 Stats *(Hisaab-Kitaab)*
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stutikatiyar&show_icons=true&theme=transparent&title_color=FF1493&text_color=808080&icon_color=8A2BE2&border_color=FF1493&hide_border=false" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=stutikatiyar&theme=transparent&ring=FF1493&fire=FF8C00&currStreakLabel=FF1493&currStreakNum=808080&sideNums=808080&sideLabels=808080&dates=808080&stroke=8A2BE2&border=FF1493" alt="GitHub streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutikatiyar&layout=compact&theme=transparent&title_color=FF1493&text_color=808080&border_color=FF1493" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stutikatiyar&show_icons=true&theme=transparent&title_color=FF1493&text_color=808080&icon_color=FFB300&border_color=C2185B&hide_border=false" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=stutikatiyar&theme=transparent&ring=FF1493&fire=FFB300&currStreakLabel=FF1493&currStreakNum=808080&sideNums=808080&sideLabels=808080&dates=808080&stroke=C2185B&border=C2185B" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutikatiyar&layout=compact&theme=transparent&title_color=FF1493&text_color=808080&border_color=C2185B" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=stutikatiyar&theme=react-dark&bg_color=0D1117&hide_border=false&border_color=FF1493&line=FF1493&color=8A2BE2&point=FFFFFF&area=true" alt="Activity graph" />
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=stutikatiyar&theme=react-dark&bg_color=1A0A14&hide_border=false&border_color=C2185B&line=FF1493&color=FFB300&point=FFFFFF&area=true" alt="Activity graph" />
 </p>
 
 <details>
@@ -149,14 +145,15 @@ flowchart LR
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Baat Karte Hain *(Let's Connect)*
 
 <p align="center">
-  Open to <b>placements and off-campus roles</b> in AI/ML, speech and computer vision.<br /><br />
+  Open to <b>placements and off-campus roles</b> in AI/ML, speech and computer vision.<br />
+  If your audio is noisy or your images are blurry, I'm your girl. 💅<br /><br />
   <a href="mailto:stutikatiyarof@gmail.com">📧 Email</a> &nbsp;•&nbsp;
   <a href="https://linkedin.com/in/stutikt">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://github.com/stutikatiyar">🐙 GitHub</a> &nbsp;•&nbsp;
   <a href="https://leetcode.com/STUTIKATIYAR">🧩 LeetCode</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:8A2BE2,100:FF8C00&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,45:C2185B,100:FFB300&height=120&section=footer" width="100%" alt="footer" />
