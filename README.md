@@ -25,7 +25,7 @@
 
 ---
 
-## 🪔 Kaun Hai Ye? *(About Me)*
+## 🪔 Kaun Hai Ye? 
 
 > **"Build robust pipelines. Validate before trusting."** 💅
 
@@ -46,7 +46,7 @@ AI & ML undergrad at **CMR Institute of Technology, Bengaluru**. I build systems
 
 ---
 
-## 💻 Tech Stack *(Meri Toolkit)*
+## 💻 Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,js,ts,react,nextjs,fastapi,nodejs,express,mongodb,tailwind,opencv,docker,git,github,vscode" alt="Tech Stack" />
@@ -63,7 +63,7 @@ AI & ML undergrad at **CMR Institute of Technology, Bengaluru**. I build systems
 
 ---
 
-## 🚀 Featured Projects *(Mera Kaam)*
+## 🚀 Featured Projects 
 
 <table>
   <tr>
@@ -123,7 +123,7 @@ flowchart LR
 
 ---
 
-## 📈 Stats *(Hisaab-Kitaab)*
+## 📈 Stats 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=stutikatiyar&show_icons=true&theme=transparent&title_color=FF1493&text_color=808080&icon_color=FFB300&border_color=C2185B&hide_border=false" alt="GitHub stats" />
@@ -145,11 +145,11 @@ flowchart LR
 
 ---
 
-## 🌐 Baat Karte Hain *(Let's Connect)*
+## 🌐  *(Let's Connect)*
 
 <p align="center">
   Open to <b>placements and off-campus roles</b> in AI/ML, speech and computer vision.<br />
-  If your audio is noisy or your images are blurry, I'm your girl. 💅<br /><br />
+  If your audio is noisy or your images are blurry , Voila ! I'm here.
   <a href="mailto:stutikatiyarof@gmail.com">📧 Email</a> &nbsp;•&nbsp;
   <a href="https://linkedin.com/in/stutikt">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://github.com/stutikatiyar">🐙 GitHub</a> &nbsp;•&nbsp;
